@@ -1,3 +1,5 @@
+# Erasmo Jr(redmaster) #
+![](https://www.codewars.com/users/redmasters/badges/micro)
 ### Hi there 👋🏿👋🏿
 - 🌱 I’m currently learning **JavaScript, Python, Ruby, C++**
 - 🔭 I’m currently working on [my blog](https://redmasters.github.io) writen in Jekyll
