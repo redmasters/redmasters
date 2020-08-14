@@ -1,7 +1,7 @@
 ### Hi there 👋🏿👋🏿
 - 🌱 I’m currently learning **JavaScript, Python, Ruby, C++**
 - 🔭 I’m currently working on [my blog](https://redmasters.github.io) writen in Jekyll
-- 🎓 Under graduate in **Systems Analysis**
+- 🎓 Studying **Systems Analysis**
 
 <!--
 **redmasters/redmasters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
