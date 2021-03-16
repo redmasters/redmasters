@@ -2,7 +2,7 @@
 ![](https://www.codewars.com/users/redmasters/badges/micro)
 ### Hi there 👋🏿👋🏿
 - 🌱 I’m currently learning **JavaScript, Python.**
-- 🔭 I’m currently working on [django-blog](thawing-tundra-63943.herokuapp.com/) project writen in Python
+- 🔭 I’m currently working on [django-blog](https://thawing-tundra-63943.herokuapp.com/) project writen in Python
 - 🎓 Studying **Systems Analysis**
 
 <!--
