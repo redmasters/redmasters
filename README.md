@@ -2,7 +2,7 @@
 ![](https://www.codewars.com/users/redmasters/badges/micro)
 ### Hi there 👋🏿👋🏿
 - 🌱 I’m currently learning **JavaScript, Python.**
-- 🔭 I’m currently working on [Roquet.Q](https://github.com/redmasters/roquetq) project of the RoquetSeat NWL#6 event, using HTML, CSS, JavaScript and NodeJS.
+- 🔭 I’m currently working on [Roquet.Q](https://github.com/redmasters/roquetq) project of the RoquetSeat NLW#6 event, using HTML, CSS, JavaScript and NodeJS.
 - 🎓 Studying **Systems Analysis**
 
 <!--
