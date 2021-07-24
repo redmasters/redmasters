@@ -1,7 +1,7 @@
 # Erasmo Jr(redmaster) #
 ![](https://www.codewars.com/users/redmasters/badges/micro)
 ### Hi there 👋🏿👋🏿
-- 🌱 I’m currently learning **JavaScript, Python.**
+- 🌱 I’m currently learning **JavaScript, Java.**
 <!-- 🔭 I’m currently working on [Roquet.Q](https://github.com/redmasters/roquetq) project of the RocketSeat NLW#6 event, using HTML, CSS, JavaScript, NodeJS, EJS, Express and SQLite. -->
 - 🎓 Studying **Systems Analysis and Development**
 
