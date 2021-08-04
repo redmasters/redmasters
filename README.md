@@ -3,7 +3,7 @@
 ### Hi there 👋🏿👋🏿
 - 🌱 I’m currently learning **JavaScript, Java.**
 <!-- 🔭 I’m currently working on [Roquet.Q](https://github.com/redmasters/roquetq) project of the RocketSeat NLW#6 event, using HTML, CSS, JavaScript, NodeJS, EJS, Express and SQLite. -->
-- 🎓 Studying **Systems Analysis and Development**
+- 🎓 Studying **Analysis and Development of Systems**
 
 <!--
 **redmasters/redmasters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
