@@ -1,4 +1,4 @@
-# Erasmo Jr(redmaster) #
+# Erasmo Jr. #
 ![](https://www.codewars.com/users/redmasters/badges/micro)
 ### Hi there 👋🏿👋🏿
 - 🌱 I’m currently learning **Java.**
