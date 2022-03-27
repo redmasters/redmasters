@@ -1,7 +1,7 @@
 # Erasmo Jr. #
 ![](https://www.codewars.com/users/redmasters/badges/micro)
 ### Hi there 👋🏿👋🏿
-- 🌱 I’m currently learning **Java, RabbitMQ, Design Patterns.**
+- 🌱 I’m currently learning **Java, Kotlin, RabbitMQ, Design Patterns.**
 <!-- 🔭 I’m currently working on [Roquet.Q](https://github.com/redmasters/roquetq) project of the RocketSeat NLW#6 event, using HTML, CSS, JavaScript, NodeJS, EJS, Express and SQLite. -->
 - 🎓 Studying **Analysis and Development of Systems**
 
