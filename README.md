@@ -8,7 +8,7 @@
 - 🎓 Studying **Analysis and Development of Systems**
 - 💬 Ask me about Java, Design Patterns, Clean Code, Software Engineering/Development 
 - 📫 How to reach me:
-- Leave a message at: [gist](gist), [linkedin](https://www.linkedin.com/in/erasmocjunior/), [email](mailto:erasmo.cjunior@gmail.com)
+- Leave a message at: [visit book gist](https://gist.github.com/redmasters/177b85381f4ccdda3ce3bca2dd285797), [linkedin](https://www.linkedin.com/in/erasmocjunior/), [email](mailto:erasmo.cjunior@gmail.com)
 
 <!--
 **redmasters/redmasters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
