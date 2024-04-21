@@ -1,4 +1,4 @@
-# Erasmo Jr. #
+# Erasmo Jr. # 
 ## Backend Developer - Java/Kotlin
 ![](https://www.codewars.com/users/redmasters/badges/micro)
 ### Hi there 👋🏿👋🏿
@@ -24,4 +24,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img alt="Visitor Stats" 
+    src="https://widgetbite.com/stats/redmasters"/>  
+</div>
 
