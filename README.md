@@ -2,7 +2,7 @@
 ## Backend Developer - Java/Kotlin
 ![](https://www.codewars.com/users/redmasters/badges/micro)
 ### Hi there 👋🏿👋🏿
-- 🔭 I’m currently work with **Java, Kotlin, PostgreSQL, SpringBoot, RabbitMQ, Design Patterns.**
+- 🔭 I’m currently work with **Java, Kotlin, PostgreSQL, SpringBoot, Messageria, Design Patterns, .**
 - 🌱 I’m currently learning **System Design, Architectures, Eletronic Stuff**
 <!-- 🔭 I’m currently working on [Roquet.Q](https://github.com/redmasters/roquetq) project of the RocketSeat NLW#6 event, using HTML, CSS, JavaScript, NodeJS, EJS, Express and SQLite. -->
 - 🎓 Studying **Analysis and Development of Systems**
